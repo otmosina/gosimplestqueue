@@ -11,10 +11,6 @@ import (
 	"github.com/otmosina/gosimplestqueue/queue"
 )
 
-type Point struct {
-	X, Y int
-}
-
 type LazyPrinter struct {
 	ID int
 }
